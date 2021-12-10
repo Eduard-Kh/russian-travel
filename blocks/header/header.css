@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 28px;
+  margin-left: 48px;
+  margin-right: 48px;
+  width: 1184px;
+  height: 52px;
+  border: 1px solid rebeccapurple;
+}
